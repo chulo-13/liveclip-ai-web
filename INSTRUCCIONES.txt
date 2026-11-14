@@ -1,0 +1,22 @@
+LIVECLIP AI 3.0 — SITIO WEB PARA TIKTOK (BORRADOR)
+
+ANTES DE PUBLICAR
+1. Sustituye TODOS los textos entre [CORCHETES] por información verdadera.
+2. Confirma el correo público de soporte, el responsable del servicio, los proveedores externos, el almacenamiento y la eliminación de datos.
+3. Revisa términos y privacidad para que describan el software real; si corresponde, solicita revisión legal.
+4. No declares funciones de publicación automática como aprobadas si TikTok no las ha autorizado.
+
+PUBLICAR EN GITHUB PAGES
+1. Crea o inicia sesión en https://github.com
+2. Crea un repositorio público, por ejemplo liveclip-ai-web.
+3. Sube index.html, terms.html, privacy.html y style.css a la raíz del repositorio.
+4. Ve a Settings > Pages > Build and deployment > Deploy from a branch > main / (root) > Save.
+5. Espera la URL pública mostrada en Settings > Pages; comprueba que cargan las tres páginas.
+6. En TikTok for Developers, usa esa URL como Website URL (si cumple los requisitos).
+7. Terms of Service URL: URL pública de terms.html
+8. Privacy Policy URL: URL pública de privacy.html
+9. En TikTok, URL properties, sigue el proceso de verificación de propiedad. Puede requerir subir un archivo de verificación al repositorio.
+
+IMPORTANTE: TikTok puede rechazar una página básica o de uso exclusivamente personal. Su guía pide un sitio oficial completo, una aplicación funcional y un video de demostración. GitHub Pages es un alojamiento de archivos, NO una garantía de aprobación.
+
+NO subas claves de cliente, secretos ni tokens al repositorio público.
